@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+  #### Name: [Shaurya Aggarwal](https://github.com/Shaurya2006-hash)
+  - Place: India, Noida
+  - Bio: Java,html,Css,Javascript
+  - Github: [Shaurya Aggarwal](https://github.com/Shaurya2006-hash)
